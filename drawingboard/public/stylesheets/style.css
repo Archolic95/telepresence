@@ -1,0 +1,36 @@
+body {
+  padding: 0; 
+  margin: 0;
+}
+
+.fixed {
+  color: #d1c3ba;
+  font-family: Consolas;
+  font-size: 12px;
+  position:absolute;
+  top:195px;
+  left: 150px;
+}
+
+a:visited {
+  color: #d1c3ba;
+}
+
+a:link {
+  color: #d1c3ba;
+}
+
+/* visited link */
+a:visited {
+  color: #91abb3;
+}
+
+/* mouse over link */
+a:hover {
+  color: #2c96d4;
+}
+
+/* selected link */
+a:active {
+  color:#fc7c55;
+}
